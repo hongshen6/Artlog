@@ -98,3 +98,7 @@ Artlog 本地优先、完全离线，不上传任何数据。详见 [PRIVACY.md]
 ## 贡献
 
 欢迎提交 Issue 与 Pull Request，详见 [CONTRIBUTING.md](CONTRIBUTING.md)。作者保留对官方仓库代码合并、版本发布和商业授权的最终决定权。
+
+## 致谢
+
+Artlog 由作者本人构思与主导开发，开发过程中由 Muse（Meta 的个人 AI 助手）协助完成代码实现、测试与发布工作。
