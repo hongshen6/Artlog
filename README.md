@@ -17,9 +17,11 @@ Artlog 不只是一个作品展示工具，更希望成为创作者保存灵感�
 
 ## 截图
 
-![设置页](docs/screenshots/settings.jpg)
-![视觉灵感页](docs/screenshots/visual-inspiration.jpg)
-![作品查看页](docs/screenshots/artwork-detail.jpg)
+![首页](docs/screenshots/home.jpg)
+![作品库](docs/screenshots/gallery.jpg)
+![新建作品](docs/screenshots/add-artwork.jpg)
+![创作日记](docs/screenshots/journal.jpg)
+![统计](docs/screenshots/statistics.jpg)
 
 ## 下载与安装
 
