@@ -1,0 +1,120 @@
+Artlog Non-Commercial License, Version 1.0
+
+Copyright (c) 2026 飞舞网络卡死了 (Artlog)
+
+This is a custom license. It is NOT an OSI-approved open source license,
+and it must not be described as one. It grants free use, study,
+modification, and non-commercial sharing of the Software, while reserving
+all commercial rights to the Author. If you need legal certainty about
+this license, please seek professional legal advice.
+
+## 1. Definitions
+
+1.1 "Software" means the Artlog source code, documentation, and other
+files distributed with this License, in source or compiled form.
+
+1.2 "Author" means 飞舞网络卡死了, the copyright holder of the Software.
+
+1.3 "You" means any person who receives, uses, modifies, or distributes
+the Software under this License.
+
+1.4 "Derivative Work" means any work based on or derived from the
+Software, including modified versions, translations, and works that
+incorporate a material part of the Software.
+
+1.5 "Commercial Use" means any use intended for commercial advantage or
+monetary compensation, including but not limited to: selling the Software
+or a Derivative Work; distributing it as part of a paid product or
+service; charging for installation, access, or support tied to it;
+operating it as a paid service; or bundling it with paid offerings.
+Use inside a company or organisation for its own internal, non-public
+purposes is not Commercial Use.
+
+## 2. Grant of Rights
+
+Subject to the conditions in Section 3, the Author grants You a
+worldwide, royalty-free, non-exclusive license to:
+
+(a) use the Software for any lawful, non-commercial purpose;
+(b) study and learn from the source code;
+(c) modify the Software and create Derivative Works;
+(d) copy and share the Software and Derivative Works free of charge,
+    provided the sharing itself is non-commercial.
+
+Artlog is and remains free of charge. No one may charge for the Software
+itself.
+
+## 3. Conditions
+
+3.1 Attribution. Any copy or distribution of the Software or a
+Derivative Work must retain the Author's name （飞舞网络卡死了） and
+this copyright notice, and must include a copy of this License.
+
+3.2 Notice of changes. A Derivative Work must carry a prominent notice
+stating that it was modified, and the date of the modification.
+
+3.3 Same license for derivatives. A Derivative Work may only be
+distributed under the terms of this License. You may not relicense the
+Software or a Derivative Work under terms that permit Commercial Use.
+
+3.4 No misrepresentation. You must not claim that a Derivative Work is
+the original Software, and must not present it as endorsed by the Author
+unless the Author has agreed in writing.
+
+## 4. Commercial Use Requires Written Permission
+
+4.1 Commercial Use of the Software or any Derivative Work is prohibited
+without the Author's explicit written permission.
+
+4.2 To request commercial authorization, contact the Author at
+3569694301@qq.com. The Author may grant or refuse such permission at
+their sole discretion, and may set conditions for it.
+
+4.3 The Author retains the sole right to decide on official releases,
+merges into the official repository, and commercial licensing of Artlog.
+
+## 5. No Trademark Grant
+
+This License does not grant any right to use the Author's name, the
+Artlog name or logo, or any trademark, except as required for the
+attribution required by Section 3.1.
+
+## 6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+## 7. Termination
+
+Your rights under this License terminate automatically if You violate
+any of its terms. Termination does not affect the rights of others who
+received the Software from You while You were in compliance, provided
+their own use remains compliant.
+
+## 8. General
+
+8.1 If any provision of this License is held unenforceable, the remaining
+provisions continue in full effect.
+
+8.2 Nothing in this License grants any rights other than those expressly
+stated here. All rights not expressly granted are reserved by the Author.
+
+8.3 The English text of this License is the authoritative version. The
+Chinese summary below is provided for convenience only and has no legal
+effect. This license was drafted by the Author without professional legal
+review; if you need legal certainty, please seek professional legal advice.
+
+---
+
+中文要点说明（仅供参考，不构成法律文本）
+
+- Artlog 永久免费；可以自由使用、学习、研究和修改源代码。
+- 可以免费分享修改后的版本，但必须保留原作者署名（飞舞网络卡死了）和版权声明，并说明修改内容；修改后的版本只能继续使用本许可协议分发，不得改用允许商业用途的协议。
+- 未经原作者明确书面许可，不得将 Artlog 或其衍生版本作为收费产品出售或进行商业化运营；商业授权请联系 3569694301@qq.com。
+- 本许可不是 OSI 批准的标准开源许可证；软件按“现状”提供，不提供任何保证。
+- 英文正文为准；如需法律上的确定性，请寻求专业法律意见。

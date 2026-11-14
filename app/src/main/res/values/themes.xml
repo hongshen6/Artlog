@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Artlog dark theme. Compose Material 3 handles the in-app colors;
+         this theme only sets the window / status-bar baseline. (There is no
+         XML Theme.Material3.* theme in the Compose material3 library; the
+         Material 3 theme lives in Kotlin code, so the framework Material
+         theme is the correct parent here.) -->
+    <style name="Theme.Artlog" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#111214</item>
+        <item name="android:statusBarColor">#111214</item>
+        <item name="android:navigationBarColor">#111214</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

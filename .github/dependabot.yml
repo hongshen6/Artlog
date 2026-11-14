@@ -1,0 +1,8 @@
+# Dependabot: check for dependency security updates.
+version: 2
+updates:
+  - package-ecosystem: "gradle"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 5
